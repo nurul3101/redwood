@@ -24,8 +24,8 @@
   "devDependencies": {
     "@auth0/auth0-spa-js": "1.21.0",
     "@azure/msal-browser": "2.23.0",
-    "@babel/cli": "7.16.7",
-    "@babel/core": "7.16.7",
+    "@babel/cli": "7.17.6",
+    "@babel/core": "7.17.9",
     "@clerk/clerk-js": "3.6.0",
     "@clerk/clerk-sdk-node": "3.3.4",
     "@clerk/types": "2.6.0",
